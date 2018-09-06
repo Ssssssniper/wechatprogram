@@ -1,0 +1,10 @@
+<view class="weather-wrapper">
+<<<<<<< HEAD
+  <view class="temp">12°</view>
+  <view class="description">温度适中</view>
+=======
+  <view class="temp">{{nowTemp}}</view>
+  <view class="description">{{nowWeather}}</view>
+>>>>>>> Second
+  <image class='weather-bg'src='/images/sunny-bg.png'mode='scaleToFill'></image>
+</view>

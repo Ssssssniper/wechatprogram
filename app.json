@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+<<<<<<< HEAD
+    "navigationBarBackgroundColor": "#cbeefd",
+=======
+    "navigationBarBackgroundColor": "#fff",
+>>>>>>> Second
+    "navigationBarTitleText": "For Honey",
+    "navigationBarTextStyle":"black"
+  }
+}
